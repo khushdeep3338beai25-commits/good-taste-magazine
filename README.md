@@ -5,7 +5,7 @@ A modern digital editorial magazine exploring food, fashion, restaurants, and cu
 
 ## 🌐 Live Website
 
-[View Live Website](#)
+https://good-taste-magazine-5ikbldl3f.vercel.app
 
 ## ✨ Features
 
