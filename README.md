@@ -68,19 +68,3 @@ good-taste-magazine/
 
 4. Visit `http://localhost:8000`.
 
-## 📄 Pages
-
-- **Home:** Magazine landing page featuring the latest issue and featured stories.
-- **Stories:** Explore, search, and filter editorial stories.
-
-## 🎯 Project Objective
-
-To create an engaging digital magazine experience that combines editorial storytelling, modern web design, and interactive browsing.
-
-## 👩‍💻 Author
-
-Developed as an independent web development project.
-
----
-
-⭐ If you like this project, consider giving it a star!
