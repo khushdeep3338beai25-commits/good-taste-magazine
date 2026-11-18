@@ -44,26 +44,6 @@ good-taste-magazine/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd good-taste-magazine
-   ```
-
-3. Open `index.html` in your browser.
-
-   Alternatively, run a local server:
-
-   ```bash
-   python3 -m http.server 8000
    ```
 
 4. Visit `http://localhost:8000`.
